@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: restaurant-menu
-        image: studydocs/caff-and-co
+        image: studydocs/caff-and-co:IMAGE_TAG_PLACEHOLDER
         ports:
         - containerPort: 80
