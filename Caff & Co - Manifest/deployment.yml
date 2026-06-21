@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: restaurant-menu
-        image: myrepo/restaurant-menu:v1
+        image: studydocs/caff-and-co
         ports:
         - containerPort: 80
